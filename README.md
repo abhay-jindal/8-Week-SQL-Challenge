@@ -9,13 +9,13 @@ This repository covers supplementary analysis and solutions of SQL for https://8
 </p>
 
 <p align="center"> 
-	<b><a href="#(Basic%20Select/Revising%20the%20Select%20Query%20I.sql)">Task Overview</a></b>
+	<b><a href="https://8weeksqlchallenge.com/case-study-1/">Task Overview</a></b>
 	|
-	<b><a href="#installation">Create Schema</a></b>
+	<b><a href="https://github.com/abhay-jindal/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Diner%20Schema.sql">Create Schema</a></b>
 	| 
-	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME" target="_blank">Danny's Diner Solutions</a></b>		
+	<b><a href="https://github.com/abhay-jindal/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Diner%20Solutions.sql">Danny's Diner Solutions</a></b>
 	| 
-	<b><a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience">Concept - case, aggregation, join, window functions, nested queries</a></b>
+	<b>Concept - case, aggregation, join, window functions, nested queries</b>
 </p>
 
 <br>
@@ -28,11 +28,11 @@ This repository covers supplementary analysis and solutions of SQL for https://8
 </p>
 
 <p align="center"> 
-	<b><a href="#">Task Overview</a></b>
+	<b><a href="https://8weeksqlchallenge.com/case-study-2/">Task Overview</a></b>
 	|
-	<b><a href="#installation">Create Schema</a></b>
+	<b><a href="https://github.com/abhay-jindal/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Runner%20Schema.sql">Create Schema</a></b>
 	| 
-	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME" target="_blank">Pizza Runner Solutions</a></b>		
+	<b><a href="https://github.com/abhay-jindal/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Runner%20Solutions.sql">Pizza Runner Solutions</a></b>
 	| 
-	<b><a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience">Concept - case, aggregation, join, window functions, nested queries</a></b>
+	<b>Concept - case, aggregation, join, window functions, nested queries</a></b>
 </p>
