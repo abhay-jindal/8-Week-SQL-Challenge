@@ -1,3 +1,8 @@
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/abhay-jindal)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/abhay-jindal?tab=repositories)
+
 # 8-Week-SQL-Challenge
 This repository covers supplementary analysis and solutions of SQL for https://8weeksqlchallenge.com/ and classic interview questions, tradeoff between performance optimization and developmental efficiency. Executed via MySql environment.
 
